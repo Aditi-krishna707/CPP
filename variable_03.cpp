@@ -1,3 +1,4 @@
+
 // #include<iostream>
 // using namespace std;
 // int main(){
@@ -27,9 +28,19 @@
 
 
 
-#include<iostream>
-using namespace std;
-int main(){
-    int x=10,y=34;
-    cout<<x+y;
-}
+// #include<iostream>
+// using namespace std;
+// int main(){
+//     int x=10,y=34;
+//     cout<<x+y;
+// }
+
+
+
+// rules for variable nameing
+// 1.starts with alphabet,underscore(_) and $
+// 2.special charaacter are not allowed(aage piche kahi bhi) except  underscore(_) and $ 
+// 3.Some particular keywords are not allowed
+// 4.comma(,) and black are not allowed
+
+// FLOAT is Valid as var name->because of caapital letters 
